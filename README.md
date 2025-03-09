@@ -1,3 +1,4 @@
+
 # Account Data Merger
 
 这是一个用于合并相同账号数据的 Python 脚本。
@@ -8,3 +9,18 @@
 2. 运行脚本：
    ```bash
    python process_data.py
+合并后的数据将保存到 output.txt 文件中。
+
+示例
+输入文件 (input.txt)
+复制
+acc1,data1
+acc2,data2
+acc1,data3
+acc3,data4
+acc2,data5
+输出文件 (output.txt)
+复制
+acc1,data1,data3
+acc2,data2,data5
+acc3,data4
