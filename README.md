@@ -8,7 +8,7 @@
 1. 将你的数据保存到 `input.txt` 文件中，每行格式为：`账号,数据`。
 2. 运行脚本：
    ```bash
-   python text-hebin.py
+   python main.py
 合并后的数据将保存到 output.txt 文件中。
 
 示例
