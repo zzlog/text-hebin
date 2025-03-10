@@ -13,6 +13,7 @@
 
 示例
 输入文件 (input.txt)
+
 acc1,data1
 
 acc2,data2
