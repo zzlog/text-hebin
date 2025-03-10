@@ -13,7 +13,7 @@
 
 示例
 输入文件 (input.txt)
-复制
+
 acc1,data1
 
 acc2,data2
@@ -25,7 +25,7 @@ acc3,data4
 acc2,data5
 
 输出文件 (output.txt)
-复制
+
 acc1,data1,data3
 
 acc2,data2,data5
